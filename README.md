@@ -47,7 +47,7 @@ To run the project locally, follow these steps:
    - Create a `.env` file in the root of the project
    - Add your OpenAI API key to the `.env` file
      ```env
-     REACT_APP_OPENAI_API_KEY=your_openai_api_key
+     API_KEY=your_openai_api_key
      ```
 
 4. **Start the development server**
@@ -60,8 +60,8 @@ To run the project locally, follow these steps:
 
 ## Usage
 
-1. **Enter the article URL or paste the article text**
-2. **Click the "Summarize" button**
+1. **Paste the article URL**
+2. **Click "Enter"**
 3. **Read the generated summary**
 
 ## License
