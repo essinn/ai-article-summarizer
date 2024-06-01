@@ -36,8 +36,8 @@ To run the project locally, follow these steps:
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/your-username/sumz.git
-   cd sumz
+   git clone https://github.com/essinn/ai-article-summarizer.git
+   cd ai-article-summarizer
    ```
 
 2. **Install dependencies**
@@ -54,7 +54,7 @@ To run the project locally, follow these steps:
 
 4. **Start the development server**
    ```bash
-   npm start
+   npm run dev
    ```
 
 5. **Open your browser**
