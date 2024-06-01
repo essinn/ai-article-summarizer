@@ -1,5 +1,4 @@
-# ai-article-summarizer
-# Sumz - AI Summarizer Webapp
+# Sumz - AI Article Summarizer
 
 Simplify your reading with Sumz, an open-source article summarizer that transforms lengthy articles into clear and concise summaries.
 
@@ -10,7 +9,6 @@ Simplify your reading with Sumz, an open-source article summarizer that transfor
 - [Demo](#demo)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Contributing](#contributing)
 - [License](#license)
 - [Acknowledgements](#acknowledgements)
 
@@ -65,28 +63,6 @@ To run the project locally, follow these steps:
 1. **Enter the article URL or paste the article text**
 2. **Click the "Summarize" button**
 3. **Read the generated summary**
-
-## Contributing
-
-We welcome contributions to improve Sumz! To contribute:
-
-1. **Fork the repository**
-2. **Create a new branch**
-   ```bash
-   git checkout -b feature-branch
-   ```
-3. **Make your changes**
-4. **Commit your changes**
-   ```bash
-   git commit -m "Add new feature"
-   ```
-5. **Push to the branch**
-   ```bash
-   git push origin feature-branch
-   ```
-6. **Create a Pull Request**
-
-Please ensure your code follows our coding guidelines and is well-documented.
 
 ## License
 
