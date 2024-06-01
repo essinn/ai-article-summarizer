@@ -26,7 +26,7 @@ Sumz is a web application designed to make reading easier by summarizing lengthy
 
 ## Demo
 
-Check out a live demo of the app [here](#).
+Check out a live demo of the app [here](https://sumz-ai-articlesummarizer.netlify.app/).
 
 ## Installation
 
