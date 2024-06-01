@@ -100,4 +100,4 @@ Sumz is released under the MIT License. See the [LICENSE](LICENSE) file for more
 
 ---
 
-Thank you for using Sumz! If you have any questions or feedback, please open an issue on the [GitHub repository](https://github.com/essinn/ai-summarizer).
+Thank you for using Sumz! If you have any questions or feedback, please open an issue on the [GitHub repository](https://github.com/essinn/ai-article-summarizer).
